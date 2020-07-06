@@ -1,3 +1,3 @@
 # AngularJS Artist_Directory
-# Hosting on -->  
+# Hosted on -->  
 https://rvhanbatte.github.io/Artist_Directory/
